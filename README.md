@@ -23,14 +23,14 @@
 <br>
 
 <p align="center">
- <a href="#-:memo:">Descrição</a> •
- <a href="#-:chart_with_upwards_trend:">Demonstração</a> •
- <a href="#-:page_facing_up:">Pré-requisitos</a> •
- <a href="#-:rocket:">Como executar</a> • 
- <a href="#-:wrench:">Tecnologias</a> • 
- <a href="#-:construction_worker:">Como contribuir</a> • 
+ <a href="#-descricao">Descrição</a> •
+ <a href="#-demonstracao">Demonstração</a> •
+ <a href="#-pre-requisitos">Pré-requisitos</a> •
+ <a href="#-como-executar">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-como-contribuir">Como contribuir</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#-:copyright:">Licença</a>
+ <a href="#-licensa">Licença</a>
 </p>
 
 ## :memo: Descrição
@@ -89,7 +89,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <br>
 
-### :rocket: Rodando a aplicação
+### :rocket: Como executar
 
 ```bash
 # Clone este repositório
