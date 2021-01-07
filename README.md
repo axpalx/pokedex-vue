@@ -18,29 +18,27 @@
 
 ---
 
-<p align="center">
- <a href="#-descricao">Descrição</a> •
- <a href="#-demonstracao">Demonstração</a> •
- <a href="#-pre-requisitos">Pré-requisitos</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
-</p>
-
----
-
-<br><br>
-
 # Pokedex
 
-## Descrição
+<br>
+
+<p align="center">
+ <a href="#-:memo:">Descrição</a> •
+ <a href="#-:chart_with_upwards_trend:">Demonstração</a> •
+ <a href="#-:page_facing_up:">Pré-requisitos</a> •
+ <a href="#-:rocket:">Como executar</a> • 
+ <a href="#-:wrench:">Tecnologias</a> • 
+ <a href="#-:construction_worker:">Como contribuir</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#-:copyright:">Licença</a>
+</p>
+
+## :memo: Descrição
 
 Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do framework.
 
 ---
 
-<br>
 <br>
 
 <h4 align="center"> 
@@ -53,7 +51,7 @@ Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do fram
 
 <br>
 
-## Demostração
+## :chart_with_upwards_trend: Demostração
 
 <br>
 
@@ -79,13 +77,19 @@ Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do fram
 
 <br>
 
-## Pré-requisitos
+## :page_facing_up: Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### Rodando a aplicação 🚀
+<br>
+
+---
+
+<br>
+
+### :rocket: Rodando a aplicação
 
 ```bash
 # Clone este repositório
@@ -109,7 +113,7 @@ $ npm run serve
 
 <br>
 
-## 🛠 Tecnologias
+## :wrench: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -122,7 +126,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
-## 💪 Como contribuir para o projeto
+## :construction_worker: Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -135,7 +139,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
-## Autor
+## :books: Autor
 
 <br />
 
@@ -144,8 +148,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 <strong>Alex Pulido</strong></a> <a href="https://github.com/axpalx" title="Alex"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/)
-[![Gmail Badge](https://img.shields.io/badge/-axpalx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axpalx@gmail.com)](mailto:axpalx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/) [![Gmail Badge](https://img.shields.io/badge/-axpalx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axpalx@gmail.com)](mailto:axpalx@gmail.com)
 
 <br>
 
@@ -153,6 +156,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
-## 📝 Licença
+## :copyright: Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
