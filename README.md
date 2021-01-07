@@ -22,22 +22,9 @@
 
 <br>
 
-<p align="center">
- <a href="#-descricao">Descrição</a> •
- <a href="#-demonstracao">Demonstração</a> •
- <a href="#-pre-requisitos">Pré-requisitos</a> •
- <a href="#-como-executar">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-contribuir">Como contribuir</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#-licensa">Licença</a>
-</p>
-
 ## :memo: Descrição
 
 Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do framework.
-
----
 
 <br>
 
