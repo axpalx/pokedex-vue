@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="#-Descrição">Descrição</a> •
- <a href="#-Demonstração">Demonstração</a> •
+ <a href="#-demonstracao">Demonstração</a> •
  <a href="#-Pré-requisitos">Pré-requisitos</a> •
  <a href="#-como-executar">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -53,7 +53,7 @@ Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do fram
 
 <br>
 
-## Demostração
+## 🚧 Demostração
 
 <br>
 
