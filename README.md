@@ -19,9 +19,9 @@
 ---
 
 <p align="center">
- <a href="#-descricao">Descrição</a> •
- <a href="#-demonstracao">Demonstração</a> •
- <a href="#-pre-requisitos">Pré-requisitos</a> •
+ <a href="#-Descrição">Descrição</a> •
+ <a href="#-Demonstração">Demonstração</a> •
+ <a href="#-Pré-requisitos">Pré-requisitos</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
