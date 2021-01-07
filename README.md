@@ -22,7 +22,7 @@
  <a href="#-Descrição">Descrição</a> •
  <a href="#-Demonstração">Demonstração</a> •
  <a href="#-Pré-requisitos">Pré-requisitos</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-como-executar">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
