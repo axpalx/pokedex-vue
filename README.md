@@ -23,12 +23,20 @@
 <br>
 
 <p align="center">
+<<<<<<< HEAD
  <a href="#-:memo:">Descrição</a> •
  <a href="#-:chart_with_upwards_trend:">Demonstração</a> •
  <a href="#-:page_facing_up:">Pré-requisitos</a> •
  <a href="#-:rocket:">Como executar</a> • 
  <a href="#-:wrench:">Tecnologias</a> • 
  <a href="#-:construction_worker:">Como contribuir</a> • 
+=======
+ <a href="#-Descrição">Descrição</a> •
+ <a href="#-demonstracao">Demonstração</a> •
+ <a href="#-Pré-requisitos">Pré-requisitos</a> •
+ <a href="#-como-executar">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+>>>>>>> b911fee0996570bb8553545ea6c77b12a2d6a2b6
  <a href="#-autor">Autor</a> • 
  <a href="#-:copyright:">Licença</a>
 </p>
@@ -51,7 +59,11 @@ Projeto desenvolvido utilizando o framework Vue JS, como forma de estudo do fram
 
 <br>
 
+<<<<<<< HEAD
 ## :chart_with_upwards_trend: Demostração
+=======
+## 🚧 Demostração
+>>>>>>> b911fee0996570bb8553545ea6c77b12a2d6a2b6
 
 <br>
 
